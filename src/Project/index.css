@@ -1,0 +1,8 @@
+.project-list-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-gap: 20px;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
